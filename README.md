@@ -5,6 +5,7 @@
 - [깃허브 링크](https://github.com/encrypted-def/basic-algo-lecture) 
 
 # 문제집
+- [링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 ## 기본 개념
 - **0x00강** - 오리엔테이션
